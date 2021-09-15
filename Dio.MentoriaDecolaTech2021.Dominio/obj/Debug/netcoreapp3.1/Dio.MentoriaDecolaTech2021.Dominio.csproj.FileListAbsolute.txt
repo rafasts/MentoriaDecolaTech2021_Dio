@@ -1,0 +1,9 @@
+C:\Users\Rafael\source\repos\Dio.MentoriaDecolaTech2021\Dio.MentoriaDecolaTech2021.Dominio\bin\Debug\netcoreapp3.1\Dio.MentoriaDecolaTech2021.Dominio.deps.json
+C:\Users\Rafael\source\repos\Dio.MentoriaDecolaTech2021\Dio.MentoriaDecolaTech2021.Dominio\bin\Debug\netcoreapp3.1\Dio.MentoriaDecolaTech2021.Dominio.dll
+C:\Users\Rafael\source\repos\Dio.MentoriaDecolaTech2021\Dio.MentoriaDecolaTech2021.Dominio\bin\Debug\netcoreapp3.1\Dio.MentoriaDecolaTech2021.Dominio.pdb
+C:\Users\Rafael\source\repos\Dio.MentoriaDecolaTech2021\Dio.MentoriaDecolaTech2021.Dominio\obj\Debug\netcoreapp3.1\Dio.MentoriaDecolaTech2021.Dominio.csprojAssemblyReference.cache
+C:\Users\Rafael\source\repos\Dio.MentoriaDecolaTech2021\Dio.MentoriaDecolaTech2021.Dominio\obj\Debug\netcoreapp3.1\Dio.MentoriaDecolaTech2021.Dominio.AssemblyInfoInputs.cache
+C:\Users\Rafael\source\repos\Dio.MentoriaDecolaTech2021\Dio.MentoriaDecolaTech2021.Dominio\obj\Debug\netcoreapp3.1\Dio.MentoriaDecolaTech2021.Dominio.AssemblyInfo.cs
+C:\Users\Rafael\source\repos\Dio.MentoriaDecolaTech2021\Dio.MentoriaDecolaTech2021.Dominio\obj\Debug\netcoreapp3.1\Dio.MentoriaDecolaTech2021.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\source\repos\Dio.MentoriaDecolaTech2021\Dio.MentoriaDecolaTech2021.Dominio\obj\Debug\netcoreapp3.1\Dio.MentoriaDecolaTech2021.Dominio.dll
+C:\Users\Rafael\source\repos\Dio.MentoriaDecolaTech2021\Dio.MentoriaDecolaTech2021.Dominio\obj\Debug\netcoreapp3.1\Dio.MentoriaDecolaTech2021.Dominio.pdb

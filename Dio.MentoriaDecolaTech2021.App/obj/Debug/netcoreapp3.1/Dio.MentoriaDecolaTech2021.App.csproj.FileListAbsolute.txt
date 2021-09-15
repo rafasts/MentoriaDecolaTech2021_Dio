@@ -1,0 +1,16 @@
+C:\Users\Rafael\source\repos\Dio.MentoriaDecolaTech2021\Dio.MentoriaDecolaTech2021.App\bin\Debug\netcoreapp3.1\Dio.MentoriaDecolaTech2021.App.exe
+C:\Users\Rafael\source\repos\Dio.MentoriaDecolaTech2021\Dio.MentoriaDecolaTech2021.App\bin\Debug\netcoreapp3.1\Dio.MentoriaDecolaTech2021.App.deps.json
+C:\Users\Rafael\source\repos\Dio.MentoriaDecolaTech2021\Dio.MentoriaDecolaTech2021.App\bin\Debug\netcoreapp3.1\Dio.MentoriaDecolaTech2021.App.runtimeconfig.json
+C:\Users\Rafael\source\repos\Dio.MentoriaDecolaTech2021\Dio.MentoriaDecolaTech2021.App\bin\Debug\netcoreapp3.1\Dio.MentoriaDecolaTech2021.App.runtimeconfig.dev.json
+C:\Users\Rafael\source\repos\Dio.MentoriaDecolaTech2021\Dio.MentoriaDecolaTech2021.App\bin\Debug\netcoreapp3.1\Dio.MentoriaDecolaTech2021.App.dll
+C:\Users\Rafael\source\repos\Dio.MentoriaDecolaTech2021\Dio.MentoriaDecolaTech2021.App\bin\Debug\netcoreapp3.1\Dio.MentoriaDecolaTech2021.App.pdb
+C:\Users\Rafael\source\repos\Dio.MentoriaDecolaTech2021\Dio.MentoriaDecolaTech2021.App\bin\Debug\netcoreapp3.1\Dio.MentoriaDecolaTech2021.Dominio.dll
+C:\Users\Rafael\source\repos\Dio.MentoriaDecolaTech2021\Dio.MentoriaDecolaTech2021.App\bin\Debug\netcoreapp3.1\Dio.MentoriaDecolaTech2021.Dominio.pdb
+C:\Users\Rafael\source\repos\Dio.MentoriaDecolaTech2021\Dio.MentoriaDecolaTech2021.App\obj\Debug\netcoreapp3.1\Dio.MentoriaDecolaTech2021.App.csprojAssemblyReference.cache
+C:\Users\Rafael\source\repos\Dio.MentoriaDecolaTech2021\Dio.MentoriaDecolaTech2021.App\obj\Debug\netcoreapp3.1\Dio.MentoriaDecolaTech2021.App.AssemblyInfoInputs.cache
+C:\Users\Rafael\source\repos\Dio.MentoriaDecolaTech2021\Dio.MentoriaDecolaTech2021.App\obj\Debug\netcoreapp3.1\Dio.MentoriaDecolaTech2021.App.AssemblyInfo.cs
+C:\Users\Rafael\source\repos\Dio.MentoriaDecolaTech2021\Dio.MentoriaDecolaTech2021.App\obj\Debug\netcoreapp3.1\Dio.MentoriaDecolaTech2021.App.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\source\repos\Dio.MentoriaDecolaTech2021\Dio.MentoriaDecolaTech2021.App\obj\Debug\netcoreapp3.1\Dio.MentoriaDecolaTech2021.App.csproj.CopyComplete
+C:\Users\Rafael\source\repos\Dio.MentoriaDecolaTech2021\Dio.MentoriaDecolaTech2021.App\obj\Debug\netcoreapp3.1\Dio.MentoriaDecolaTech2021.App.dll
+C:\Users\Rafael\source\repos\Dio.MentoriaDecolaTech2021\Dio.MentoriaDecolaTech2021.App\obj\Debug\netcoreapp3.1\Dio.MentoriaDecolaTech2021.App.pdb
+C:\Users\Rafael\source\repos\Dio.MentoriaDecolaTech2021\Dio.MentoriaDecolaTech2021.App\obj\Debug\netcoreapp3.1\Dio.MentoriaDecolaTech2021.App.genruntimeconfig.cache
